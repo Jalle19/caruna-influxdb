@@ -1,1 +1,1 @@
-pycaruna==1.0.2
+pycaruna==1.0.3
